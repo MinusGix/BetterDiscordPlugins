@@ -2,7 +2,7 @@
   
 ## Channel Seperator Plugin  
   
-Link:  
+Link: https://raw.githubusercontent.com/MinusGix/BetterDiscordPlugins/master/channelSeparator.plugin.js 
   
 Goes from: ![Initial](http://i.imgur.com/0R8wvDV.png)To: ![After](http://i.imgur.com/Ke9N1DI.png)  
   
