@@ -13,3 +13,10 @@ The separators are found by looking for
 ```
 
 If you have any improvements for the regex or the code just message me.
+  
+  
+# Remove @ Symbol  
+  
+Removes the @ symbol when someone @'s someone else.  
+@MinusGix -> MinusGix  
+It's still clickable.
